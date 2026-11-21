@@ -32,7 +32,7 @@
     "@babel/core": "^8.1.0",
     "@rolldown/plugin-babel": "^0.3.1",
     "@vitejs/plugin-react": "^6.2.1",
-    "axe-core": "^4.14.0",
+    "axe-core": "^4.14.1",
     "babel-plugin-react-compiler": "^1.0.0",
     "cypress": "^15.21.1",
     "cypress-axe": "^1.7.0",
